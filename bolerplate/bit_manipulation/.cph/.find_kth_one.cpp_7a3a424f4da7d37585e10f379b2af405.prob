@@ -1,0 +1,1 @@
+{"name":"Local: find_kth_one","url":"/home/bivas_lappy/Desktop/dsa/bolerplate/bit_manipulation/find_kth_one.cpp","tests":[{"id":1752143667961,"input":"2\n10\n15","output":"7\n9"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bivas_lappy/Desktop/dsa/bolerplate/bit_manipulation/find_kth_one.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: get_bit_str","url":"/home/bivas_lappy/Desktop/dsa/bolerplate/bit_manipulation/get_bit_str.cpp","tests":[{"id":1752141034554,"input":"3\n5\n8\n15","output":"101\n1000\n1111"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bivas_lappy/Desktop/dsa/bolerplate/bit_manipulation/get_bit_str.cpp","group":"local","local":true}

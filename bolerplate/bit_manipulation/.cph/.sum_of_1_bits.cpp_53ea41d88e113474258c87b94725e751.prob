@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_1_bits","url":"/home/bivas_lappy/Desktop/dsa/bolerplate/bit_manipulation/sum_of_1_bits.cpp","tests":[{"id":1752142235406,"input":"3\n7\n8\n9","output":"12\n13\n15"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bivas_lappy/Desktop/dsa/bolerplate/bit_manipulation/sum_of_1_bits.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: total_bit_till","url":"/home/bivas_lappy/Desktop/dsa/bolerplate/bit_manipulation/total_bit_till.cpp","tests":[{"id":1752145489970,"input":"2\n4\n7","output":"9\n18"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bivas_lappy/Desktop/dsa/bolerplate/bit_manipulation/total_bit_till.cpp","group":"local","local":true}
