@@ -1,0 +1,1 @@
+{"name":"Local: all_subset","url":"/home/bivas_lappy/Desktop/dsa/bolerplate/all_subset.cpp","tests":[{"id":1752212815544,"input":"","output":"All subsets:\n{ }\n{ 1 }\n{ 2 }\n{ 1 2 }\n{ 3 }\n{ 1 3 }\n{ 2 3 }\n{ 1 2 3 }"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/bivas_lappy/Desktop/dsa/bolerplate/all_subset.cpp","group":"local","local":true}

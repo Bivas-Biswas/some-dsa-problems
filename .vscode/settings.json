@@ -30,5 +30,11 @@
   "editor.guides.bracketPairs": false,
   "editor.guides.bracketPairsHorizontal": false,
   "editor.occurrencesHighlight": "off",
-  "editor.selectionHighlight": false
+  "editor.selectionHighlight": false,
+  "editor.autoIndent": "none",
+  "editor.formatOnType": false,
+  "editor.formatOnPaste": false,
+  "editor.insertSpaces": false,
+  "editor.tabSize": 4,
+  "editor.detectIndentation": false
 }
